@@ -1,6 +1,7 @@
 package com.devsuperior.dsmeta.services;
 
 import java.time.Instant;
+
 import java.time.LocalDate;
 import java.time.ZoneId;
 import java.util.List;
@@ -12,6 +13,7 @@ import org.springframework.stereotype.Service;
 
 import com.devsuperior.dsmeta.entities.Sale;
 import com.devsuperior.dsmeta.repositories.SaleRepository;
+
 @Service
 public class SaleService {
 	
