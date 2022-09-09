@@ -9,4 +9,5 @@ Projeto fullstack com spring/react de lista de vendedores/vendas
 
 
 
-https://graceful-gumption-9608b2.netlify.app/
+https://dsmeta-pedroaz.netlify.app/
+
